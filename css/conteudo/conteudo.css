@@ -1,0 +1,7 @@
+.conteudo
+{
+    background: linear-gradient(45deg , white, pink);
+    height: calc(100vh - 37px - 4rem);
+    padding: 1rem;
+    
+}
